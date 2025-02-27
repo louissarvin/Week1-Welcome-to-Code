@@ -32,7 +32,7 @@
 */
 
 let nama = "Louis",
-  peran = "";
+  peran = "Ksatria";
 
 //code disini gunakan console.log untuk outputnya
 if (!nama || nama == "" || nama.length <= 0) {
